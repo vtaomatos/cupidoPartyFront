@@ -31,13 +31,7 @@ function Navbar() {
         </Button>
         <Button className={classes.button}>
           <Link className={classes.link} to="/catalogo">Catalogo</Link>
-        </Button>
-        <Button className={classes.button}>
-          <Link className={classes.link} to="/notificacoes">Notificacoes</Link>
-        </Button>
-        <Button className={classes.button}>
-          <Link className={classes.link} to="/perfil">Perfil</Link>
-        </Button>      
+        </Button>     
       </Toolbar>
     </AppBar>
   );
