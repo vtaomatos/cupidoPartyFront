@@ -19,7 +19,7 @@ jobs:
       - name: Build web-app
         run: |
           npm config set legacy-peer-deps true
-          npm ci
+          npm i
           npm run build
       - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v3
