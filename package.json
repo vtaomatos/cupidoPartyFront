@@ -1,7 +1,7 @@
 {
-  "name": "cupid-frontend",
+  "name": "frontend",
   "version": "0.1.0",
-  "homepage": "cupid-frontend/",
+  "homepage": "frontend/",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.12.4",
