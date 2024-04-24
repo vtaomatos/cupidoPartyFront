@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/cupid-frontend/static/css/main.e6c13ad2.css",
-    "main.js": "/cupid-frontend/static/js/main.1d121a05.js",
-    "static/js/592.d533ce51.chunk.js": "/cupid-frontend/static/js/592.d533ce51.chunk.js",
-    "index.html": "/cupid-frontend/index.html",
-    "main.e6c13ad2.css.map": "/cupid-frontend/static/css/main.e6c13ad2.css.map",
-    "main.1d121a05.js.map": "/cupid-frontend/static/js/main.1d121a05.js.map",
-    "592.d533ce51.chunk.js.map": "/cupid-frontend/static/js/592.d533ce51.chunk.js.map"
+    "main.css": "/frontend/static/css/main.e6c13ad2.css",
+    "main.js": "/frontend/static/js/main.40e37f1a.js",
+    "static/js/592.bf6ca574.chunk.js": "/frontend/static/js/592.bf6ca574.chunk.js",
+    "index.html": "/frontend/index.html",
+    "main.e6c13ad2.css.map": "/frontend/static/css/main.e6c13ad2.css.map",
+    "main.40e37f1a.js.map": "/frontend/static/js/main.40e37f1a.js.map",
+    "592.bf6ca574.chunk.js.map": "/frontend/static/js/592.bf6ca574.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.1d121a05.js"
+    "static/js/main.40e37f1a.js"
   ]
 }
