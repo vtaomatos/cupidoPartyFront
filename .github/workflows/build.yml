@@ -24,6 +24,8 @@ jobs:
           npm config set legacy-peer-deps true
           npm i
           npm run build
+          npm install -g serve
+          serve -s build
       - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v3
         with:
