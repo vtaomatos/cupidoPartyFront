@@ -7,7 +7,7 @@ import Menu from './Menu';
 
 function App() {
   return (
-    <Router>
+    <Router basename='/cupidoPartyFront'>
       <Routes>
         <Route path="/" element={<Login />} />
         <Route path="/login" element={<Login />} />
